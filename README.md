@@ -7,6 +7,7 @@ An end-to-end retail sales analysis covering data cleaning, profitability analys
 ## Dashboard Preview
 
 ![Crestline Retail Dashboard](dashboard/Crestline%20Retail%20dashboard.png)
+[View Interactive Excel Dashboard]([https://1drv.ms/x/c/30ae8903c421dde8/IQA5Uq1rfm39RqYRlyFNNNtoAcDau0irSdn_GOKzAbf4ZO4?e=Cd1URO])
 
 ## Project Overview
 
