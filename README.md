@@ -7,7 +7,7 @@ An end-to-end retail sales analysis covering data cleaning, profitability analys
 ## Dashboard Preview
 
 ![Crestline Retail Dashboard](dashboard/Crestline%20Retail%20dashboard.png)
-[View Interactive Excel Dashboard]([https://1drv.ms/x/c/30ae8903c421dde8/IQA5Uq1rfm39RqYRlyFNNNtoAcDau0irSdn_GOKzAbf4ZO4?e=Cd1URO])
+[View Interactive Excel Dashboard](https://1drv.ms/x/c/30ae8903c421dde8/IQA5Uq1rfm39RqYRlyFNNNtoAcDau0irSdn_GOKzAbf4ZO4?e=Cd1URO)
 
 ## Project Overview
 
@@ -55,11 +55,9 @@ An end-to-end retail sales analysis covering data cleaning, profitability analys
 
 ## Project Files
 
-- `data/raw/` — Original sales dataset
-- `data/cleaned/` — Cleaned sales dataset
-- `documentation/` — Data Quality Log, Analysis Log, and Report Outline
-- `dashboard/` — Interactive Excel dashboard and screenshot
-
-## Note
-
+- [Raw Dataset](data/raw/Crestline_Retail_Raw_Sales_Data.xlsx) — Original sales records.
+- [Cleaned Dataset](data/cleaned/Crestline_Retail_Cleaned_Data.xlsx) — Prepared dataset.
+- [Analysis Documentation](documentation/Crestline_Analysis_Documentation.xlsx) — Data Quality Log, Analysis Log, and Report Outline.
+- [Excel Dashboard](dashboard/Crestline_Retail_sales_Analysis.xlsx) — Complete interactive Excel workbook.
+- [Dashboard Screenshot](dashboard/Crestline%20Retail%20dashboard.png) — Dashboard preview.
 Crestline Retail is a fictional company. This project uses synthetic data for portfolio demonstration purposes.
