@@ -59,6 +59,7 @@ An end-to-end retail sales analysis covering data cleaning, profitability analys
 - [Cleaned Dataset](data/cleaned/Crestline_Retail_Cleaned_Data.xlsx) — Prepared dataset.
 - [Analysis Documentation](documentation/Crestline_Analysis_Documentation.xlsx) — Data Quality Log, Analysis Log, and Report Outline.
 - [Excel Dashboard](dashboard/Crestline_Retail_sales_Analysis.xlsx) — Complete interactive Excel workbook.
+- [Dashboard Screenshot](dashboard/Crestline%20Retail%20dashboard.png) — Dashboard preview.
 
 ## Detailed Project Case Study
 
@@ -66,6 +67,4 @@ An end-to-end retail sales analysis covering data cleaning, profitability analys
 
 ## Note
 
-Crestline Retail is a fictional company. This project uses synthetic data for portfolio demonstration purposes.
-- [Dashboard Screenshot](dashboard/Crestline%20Retail%20dashboard.png) — Dashboard preview.
 Crestline Retail is a fictional company. This project uses synthetic data for portfolio demonstration purposes.
